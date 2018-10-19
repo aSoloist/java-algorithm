@@ -9,3 +9,5 @@
 [2018.10.17 奇偶数字](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.17/10.17-奇偶数字.md)
 
 [2018.10.18 数的位数](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.18/10.18-数的位数.md)
+
+[2018.10.19 翻转数字](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.19/10.19-翻转数字.md)
