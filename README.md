@@ -11,3 +11,5 @@
 [2018.10.18 数的位数](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.18/10.18-数的位数.md)
 
 [2018.10.19 翻转数字](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.19/10.19-翻转数字.md)
+
+[2018.10.19 两数之和](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.20/10.20-两数之和.md)
