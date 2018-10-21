@@ -15,14 +15,17 @@ public class Main {
     }
 
     public boolean reverseNumber(int num) {
+        // 负数与10的倍数必定为false
+        if (num < 0 || (num % 10 == 0 && num != 0)) {
+            return false;
+        }
+
         int reverseNumber = 0;
         while (num > reverseNumber) {
             reverseNumber = reverseNumber * 10 + num % 10;
             num /= 10;
         }
 
-        System.out.println(num);
-        System.out.println(reverseNumber);
         return num == reverseNumber || num == reverseNumber / 10;
     }
 
