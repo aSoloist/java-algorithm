@@ -15,3 +15,5 @@
 [2018.10.20 两数之和](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.20/10.20-两数之和.md)
 
 [2018.10.21 回文数](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.21/10.21-回文数.md)
+
+[2018.10.22 移除元素](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.22/10.22-移除元素.md)
