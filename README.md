@@ -17,3 +17,5 @@
 [2018.10.21 回文数](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.21/10.21-回文数.md)
 
 [2018.10.22 移除元素](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.22/10.22-移除元素.md)
+
+[2018.10.23 字符串转整数](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.23/10.23-字符串转整数.md)
