@@ -21,3 +21,5 @@
 [2018.10.23 字符串转整数](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.23/10.23-字符串转整数.md)
 
 [2018.10.24 最长公共前缀](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.24/10.24-最长公共前缀.md)
+
+[2018.10.25 搜索插入位置](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.25/10.25-搜索插入位置.md)
