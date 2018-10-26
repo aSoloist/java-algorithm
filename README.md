@@ -23,3 +23,5 @@
 [2018.10.24 最长公共前缀](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.24/10.24-最长公共前缀.md)
 
 [2018.10.25 搜索插入位置](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.25/10.25-搜索插入位置.md)
+
+[2018.10.25 盛最多水的容器](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.26/10.26-盛最多水的容器.md)
