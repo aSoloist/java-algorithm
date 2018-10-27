@@ -24,4 +24,6 @@
 
 [2018.10.25 搜索插入位置](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.25/10.25-搜索插入位置.md)
 
-[2018.10.25 盛最多水的容器](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.26/10.26-盛最多水的容器.md)
+[2018.10.26 盛最多水的容器](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.26/10.26-盛最多水的容器.md)
+
+[2018.10.27 三数之和](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.27/10.27-三数之和.md)
