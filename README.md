@@ -29,3 +29,5 @@
 [2018.10.27 三数之和](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.27/10.27-三数之和.md)
 
 [2018.10.28 Z字形变换](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.28/10.28-Z字形变换.md)
+
+[2018.10.29 四数之和](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.29/10.28-四数之和.md)
