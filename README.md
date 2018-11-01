@@ -35,3 +35,5 @@
 [2018.10.30 下一个排列](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.30/10.30-下一个排列.md)
 
 [2018.10.31 两数相除](https://github.com/aSoloist/java-algorithm/blob/master/doc/10.31/10.31-两数相除.md)
+
+[2018.11.01 扁平化嵌套列表迭代器](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.01/11.01-扁平化嵌套列表迭代器.md)
