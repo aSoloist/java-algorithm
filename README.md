@@ -41,3 +41,5 @@
 [2018.11.02 搜索旋转排序数组](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.02/11.02-搜索旋转排序数组.md)
 
 [2018.11.03 岛屿的个数](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.03/11.03-岛屿的个数.md)
+
+[2018.11.04 修剪二叉搜索树](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.04/11.04-修剪二叉搜索树.md)
