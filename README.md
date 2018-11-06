@@ -45,3 +45,5 @@
 [2018.11.04 修剪二叉搜索树](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.04/11.04-修剪二叉搜索树.md)
 
 [2018.11.05 森林中的兔子](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.05/11.05-森林中的兔子.md)
+
+[2018.11.06 和为K的子数组](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.06/11.06-和为K的子数组.md)
