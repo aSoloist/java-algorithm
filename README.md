@@ -59,3 +59,5 @@
 [2018.11.11 四叉树交集](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.11/11.11-四叉树交集.md)
 
 [2018.11.12 滑动谜题](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.12/11.12-滑动谜题.md)
+
+[2018.11.13 猜数字大小Ⅱ](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.13/11.13-猜数字大小Ⅱ.md)
