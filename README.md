@@ -61,3 +61,5 @@
 [2018.11.12 滑动谜题](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.12/11.12-滑动谜题.md)
 
 [2018.11.13 猜数字大小Ⅱ](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.13/11.13-猜数字大小Ⅱ.md)
+
+[2018.11.14 最长回文子串](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.14/11.14-最长回文子串.md)
