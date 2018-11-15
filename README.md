@@ -63,3 +63,5 @@
 [2018.11.13 猜数字大小Ⅱ](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.13/11.13-猜数字大小Ⅱ.md)
 
 [2018.11.14 最长回文子串](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.14/11.14-最长回文子串.md)
+
+[2018.11.15 重新排序得到2的幂](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.15/11.15-重新排序得到2的幂.md)
