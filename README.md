@@ -67,3 +67,5 @@
 [2018.11.15 重新排序得到2的幂](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.15/11.15-重新排序得到2的幂.md)
 
 [2018.11.16 基本计算器Ⅱ](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.16/11.16-基本计算器Ⅱ.md)
+
+[2018.11.17 两个字符串的最小ASCII删除和](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.17/11.17-两个字符串的最小ASCII删除和.md)
