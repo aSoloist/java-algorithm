@@ -73,3 +73,5 @@
 [2018.11.18 优势洗牌](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.18/11.18-优势洗牌.md)
 
 [2018.11.19 最长重复子数组](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.19/11.19-最长重复子数组.md)
+
+[2018.11.20 二叉搜索树中的众数](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.20/11.20-二叉搜索树中的众数.md)
