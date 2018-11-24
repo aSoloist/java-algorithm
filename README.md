@@ -77,3 +77,5 @@
 [2018.11.20 二叉搜索树中的众数](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.20/11.20-二叉搜索树中的众数.md)
 
 [2018.11.21 按要求补齐数组](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.21/11.21-按要求补齐数组.md)
+
+[2018.11.22 最大数](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.22/11.22-最大数.md)
