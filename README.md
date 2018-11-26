@@ -81,3 +81,5 @@
 [2018.11.22 最大数](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.22/11.22-最大数.md)
 
 [2018.11.23 车队](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.23/11.23-车队.md)
+
+[2018.11.24 跳跃游戏Ⅱ](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.24/11.24-跳跃游戏Ⅱ.md)
