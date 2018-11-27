@@ -87,3 +87,5 @@
 [2018.11.25 数据流的中位数](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.25/11.25-数据流的中位数.md)
 
 [2018.11.26 解数独](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.26/11.26-解数独.md)
+
+[2018.11.27 最小基因变化](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.27/11.27-最小基因变化.md)
