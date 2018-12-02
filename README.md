@@ -91,3 +91,5 @@
 [2018.11.27 最小基因变化](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.27/11.27-最小基因变化.md)
 
 [2018.11.28 划分字母区间](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.28/11.28-划分字母区间.md)
+
+[2018.11.29 丑数](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.29/11.29-丑数.md)
