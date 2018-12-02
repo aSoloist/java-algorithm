@@ -95,3 +95,5 @@
 [2018.11.29 丑数](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.29/11.29-丑数.md)
 
 [2018.11.30 丑数Ⅱ](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.30/11.30-丑数Ⅱ.md)
+
+[2018.12.01 超级丑数](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.01/12.01-超级丑数.md)
