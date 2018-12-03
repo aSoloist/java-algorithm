@@ -97,3 +97,5 @@
 [2018.11.30 丑数Ⅱ](https://github.com/aSoloist/java-algorithm/blob/master/doc/11.30/11.30-丑数Ⅱ.md)
 
 [2018.12.01 超级丑数](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.01/12.01-超级丑数.md)
+
+[2018.12.02 完全平方数](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.02/12.02-完全平方数.md)
