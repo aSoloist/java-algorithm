@@ -99,3 +99,5 @@
 [2018.12.01 超级丑数](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.01/12.01-超级丑数.md)
 
 [2018.12.02 完全平方数](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.02/12.02-完全平方数.md)
+
+[2018.12.03 计算右侧小于当前元素的个数](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.03/12.03-计算右侧小于当前元素的个数.md)
