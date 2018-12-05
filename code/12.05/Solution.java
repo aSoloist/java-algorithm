@@ -21,10 +21,11 @@ public class Solution {
         // 位数
         int len = 1;
         // 个数
-        int size = 1;
+        long size = 9;
         // 总数
-        while (9L * len * size < n) {
-            n -= 9L * len * size;
+        long count = len * size;
+        while (count < n) {
+            n -= count;
             len++;
             size *= 10;
         }
