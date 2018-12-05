@@ -103,3 +103,5 @@
 [2018.12.03 计算右侧小于当前元素的个数](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.03/12.03-计算右侧小于当前元素的个数.md)
 
 [2018.12.04 重新安排行程](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.04/12.04-重新安排行程.md)
+
+[2018.12.05 第N个数字](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.05/12.05-第N个数字.md)
