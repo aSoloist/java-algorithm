@@ -107,3 +107,5 @@
 [2018.12.05 第N个数字](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.05/12.05-第N个数字.md)
 
 [2018.12.06 最大回文数乘积](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.06/12.06-最大回文数乘积.md)
+
+[2018.12.07 课程表](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.07/12.07-课程表.md)
