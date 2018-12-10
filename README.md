@@ -113,3 +113,5 @@
 [2018.12.08 划分为k个相等的子集](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.08/12.08-划分为k个相等的子集.md)
 
 [2018.12.09 重新排列日志文件](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.09/12.09-重新排列日志文件.md)
+
+[2018.12.10 分隔链表](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.10/12.10-分隔链表.md)
