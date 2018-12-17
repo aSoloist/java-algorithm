@@ -121,3 +121,5 @@
 [2018.12.12 旋转数组](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.12/12.12-旋转数组.md)
 
 [2018.12.13 买卖股票的最佳时机Ⅱ](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.13/12.13-买卖股票的最佳时机Ⅱ.md)
+
+[2018.12.14 存在重复](https://github.com/aSoloist/java-algorithm/blob/master/doc/12.14/12.14-存在重复.md)
